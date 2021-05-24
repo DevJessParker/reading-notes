@@ -29,4 +29,4 @@ Term | Definition
 ------------ | -------------
 Italics | Use \*example* or \_example_ to italicize text.
 Bold | Use \**example** or \__example__ to italicize text.
-*Note* | Both effects can be ***combined***.
+**Note** | Both effects can be ***combined***.
