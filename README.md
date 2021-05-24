@@ -51,5 +51,5 @@ Today we'll focus specifically on Markdown. Markdown is stylization syntax aimed
 Term | Definition
 ------------ | -------------
 Italics | Use \*example* or \_example_ to *italicize* text.
-Bold | Use \*\*example** or \_\_example__ **bold** text.
+Bold | Use \*\*example** or \_\_example__ to **bold** text.
 **NOTE** | Both effects can be ***combined***.
