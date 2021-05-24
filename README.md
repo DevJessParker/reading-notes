@@ -2,7 +2,7 @@
 
 This is my repository to track my notes for CodeFellows.
 
-![Profile](https://user-images.githubusercontent.com/84735690/119401968-1693d900-bc91-11eb-9050-a1f1b8f60518.jpg)
+![Profile](https://user-images.githubusercontent.com/84735690/119401968-1693d900-bc91-11eb-9050-a1f1b8f60518.jpg | width=150)
 
 
 ## About Me
