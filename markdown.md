@@ -22,11 +22,11 @@ GitHub Pages | An open-source GitHub tool that allows developers to deploy live 
 
 Today we'll focus specifically on Markdown. Markdown is stylization syntax aimed at making screen-based text easier for users to read. It ultizes simplified characters such as *#* and *** to accent, shape, and organize text.
 
-#### *Markdown for Emphasis*
+#### **Markdown for Emphasis**
 
 
 Term | Definition
 ------------ | -------------
-Italics | Use '<addr>' or '<addr>' to italicize text.
-Bold | Use '<addr>' or '<addr>' to italicize text.
+Italics | Use '<*example*>' or '<_example_>' to italicize text.
+Bold | Use '<**example**>' or '<__example__>' to italicize text.
 *Note* | Both effects can be ***combined***.
