@@ -17,7 +17,7 @@ To me **Growth Mindset** is the ability to meet challenges as friends rather tha
 
 - Reframe challenges as opportunity. **Embrace the Pit!**
 - Never be satisfied with *"Good Enough."* There is always room for growth.
-- Be open minded
+- Take criticism as encouragement. Someone is taking the time to help make you better.
 
 
 # 102 - CodeFellows Day One Breakdown
