@@ -22,6 +22,9 @@ Today we'll focus specifically on Markdown. Markdown is stylization syntax aimed
 
 #### *Markdown for Emphasis*
 
+
+Term | Definition
+------------ | -------------
 Italics | Use '<addr>' or '<addr>' to italicize text.
 Bold | Use '<addr>' or '<addr>' to italicize text.
 *Note* | Both effects can be ***combined***.
