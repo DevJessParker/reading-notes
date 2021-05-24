@@ -37,6 +37,7 @@ Markdown | A syntax that allows a developer to stylize text.
 HTML | A type of Markdown language that allows a developer to stylize text.
 GitHub | A collaborative coding platform that allows users to test and develop projects.
 GitHub Pages | An open-source GitHub tool that allows developers to deploy live webpages based on code.
+Syntax | Rules, structure, and organization of a language.
 
 
 ### Markdown for Beginners
