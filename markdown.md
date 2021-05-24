@@ -10,7 +10,6 @@
 ## Key Term Definition
 ------------ | ------------
 Terms | Definition
-
 Deployed Site | A live website viewable by users.
 Repository | Location of files and code used to edit web project.
 Markdown | A syntax that allows a developer to stylize text.
