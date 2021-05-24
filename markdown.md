@@ -27,6 +27,6 @@ Today we'll focus specifically on Markdown. Markdown is stylization syntax aimed
 
 Term | Definition
 ------------ | -------------
-Italics | Use '<*example*>' or '<_example_>' to italicize text.
+Italics | Use `<addr>`*example*`<addr>` or `<addr>`_example_`<addr>` to italicize text.
 Bold | Use '<**example**>' or '<__example__>' to italicize text.
 *Note* | Both effects can be ***combined***.
