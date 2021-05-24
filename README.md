@@ -2,6 +2,8 @@
 
 This is my repository to track my notes for CodeFellows.
 
+![Profile](https://user-images.githubusercontent.com/84735690/119401968-1693d900-bc91-11eb-9050-a1f1b8f60518.jpg)
+
 
 ## About Me
 
@@ -17,7 +19,7 @@ To me **Growth Mindset** is the ability to meet challenges as friends rather tha
 
 - Reframe challenges as opportunity. **Embrace the Pit!**
 - Never be satisfied with *"Good Enough."* There is always room for growth.
-- Take criticism as encouragement. Someone is taking the time to help make you better.
+- Take constructive criticism as encouragement. Someone is taking the time to stengthen your skills.
 
 
 # 102 - CodeFellows Day One Breakdown
