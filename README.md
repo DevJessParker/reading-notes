@@ -24,7 +24,7 @@ To me **Growth Mindset** is the ability to meet challenges as friends rather tha
 
 Let's take a tip from Charlemange:
 
->*"To have another language is to possess a second soul."
+>*"To have another language is to possess a second soul."*
 
 
 ## Key Term Definition
