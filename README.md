@@ -41,7 +41,7 @@ GitHub Pages | An open-source GitHub tool that allows developers to deploy live 
 
 ### Markdown for Beginners
 
-Today we'll focus specifically on Markdown. Markdown is stylization syntax aimed at making screen-based text easier for users to read. It ultizes special characters to accent, shape, and organize text.
+Today we'll focus specifically on Markdown. Markdown is stylization syntax aimed at making screen-based text easier for users to read. It utilizes special characters to accent, shape, and organize text.
 
 
 #### **Markdown for Emphasis**
