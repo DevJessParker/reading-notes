@@ -1,6 +1,6 @@
 # 102 The Coder's Computer
 
-Let's overview some important key terms regarding Terminals, Text Editors, Files, and Navigation
+Let's overview some important key terms regarding Terminals, Text Editors, Files, and Navigation.
 
 ### Key Terms
 
@@ -11,7 +11,7 @@ BASH | Bourne Again Shell
 Command Line | An interface that allows a user to type code to directly communicate with a computer.
 Terminal | Another word for CLI
 
-### How to Choose a Text Editor?
+## How to Choose a Text Editor?
 
 Here are some important features to consider when choosing a text editor:
 
@@ -33,4 +33,23 @@ Here are some important features to consider when choosing a text editor:
 The following shows the breakdown of a basic command line:
 
 **prompt + command + argument = output**
+
+## Navigation
+
+### Key Terms
+
+Term | Definition
+------------ | ------------
+Path | Describes how we get to a file or directory.
+Relative Path | Describes how to get to a location based on where you are currently located in the system.
+Absolute Path | Describes the location compared to the root system.
+Tab Completion | A handy feature that allows the user to press TAB for a path auto-completion suggestion.
+pwd | Print Working Directory
+ls | List
+cd | Change Directory
+
+**Note: If you type cd but do not follow it with an argument, it will give you a shortcut back to the home directory.**
+
+**Note: Relative Paths are identifiable by the forward slash.**
+
 
