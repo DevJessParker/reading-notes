@@ -56,7 +56,7 @@ cd | Change Directory
 
 1. Linux examines the file for content and disregards the .extension
 2. There is a command **file \[path\]** that helps the user know what *type* of file we're working with
-3. Aye Aye Cap! Linux is case sensitive, so be sure to watch your captilization
+3. Aye Aye Cap! Linux is case sensitive, so be sure to watch your capitalization
 4. Spaces in file names can cause ambiguity when it comes to arguments and paths. Be careful. If a file has a space, use < ' > marks around the name.
 5. To hide a file, rename it with a < . > *The command ***ls*** *will not list hidden files.*
 
