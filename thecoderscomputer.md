@@ -60,4 +60,11 @@ cd | Change Directory
 4. Spaces in file names can cause ambiguity when it comes to arguments and paths. Be careful. If a file has a space, use < ' > marks around the name.
 5. To hide a file, rename it with a < . > *The command **ls** will not list hidden files.*
 
+## Navigation
+
+[<-- Return to Home](README.md)
+[1. Markdown](markdown.md)
+[2. The Coder's Computer - YOU ARE HERE](thecoderscomputer.md)
+[3. Revisions and the Cloud](revisionsandthecloud.md)
+
 
