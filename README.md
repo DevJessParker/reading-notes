@@ -23,3 +23,11 @@ To me **Growth Mindset** is the ability to meet challenges as friends rather tha
 - Never be satisfied with *"Good Enough."* There is always room for growth.
 - Take constructive criticism as encouragement. Someone is taking the time to stengthen your skills.
 
+
+'''
+### Find Me on Twitter
+
+[@JPierce_Books](https://twitter.com/jpierce_books)
+
+
+
