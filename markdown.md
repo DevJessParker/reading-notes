@@ -1,4 +1,4 @@
-# 102 - CodeFellows Day One Breakdown
+# CODE 102 - Markdown 
 
 Let's take a tip from Charlemange:
 

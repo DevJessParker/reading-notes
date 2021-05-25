@@ -34,7 +34,7 @@ The following shows the breakdown of a basic command line:
 
 **prompt + command + argument = output**
 
-## Navigation
+## Navigating with Code
 
 ### Key Terms
 
@@ -47,6 +47,10 @@ Tab Completion | A handy feature that allows the user to press TAB for a path au
 pwd | Print Working Directory
 ls | List
 cd | Change Directory
+mkdir | Make New Directory
+touch | Make New File
+git | Software that enables you to track changes
+VCS | Version Control Software
 
 **Note: If you type cd but do not follow it with an argument, it will give you a shortcut back to the home directory.**
 
