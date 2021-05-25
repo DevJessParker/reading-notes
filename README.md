@@ -16,7 +16,7 @@ My name is Jess Parker and I am transitioning to a software development career f
 
 ### Growth Mindset
 
-To me **Growth Mindset** is the ability to meet challenges as friends rather than foes. Obstacles give us the opportunity to troubleshoot issues on a deeper level, so that we may not only become stronger in our skillset, but also allow us the room to understand what *not* to do just as much as *what* to do. In a **Path Mindset**, we often skim the surface of the iceberg rather than understanding the current underneath. This leads to superficial knowledge, ***but not true understanding and comprehension.***
+To me, **Growth Mindset** is the ability to meet challenges as friends rather than foes. Obstacles give us the opportunity to troubleshoot issues on a deeper level, so that we may not only become stronger in our skillset, but also allow us the room to understand what *not* to do just as much as *what* to do. In a **Path Mindset**, we often skim the surface of the iceberg rather than understanding the current underneath. This leads to superficial knowledge, ***but not true understanding and comprehension.***
 
 
 ### Brain Hacks
