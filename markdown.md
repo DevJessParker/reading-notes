@@ -35,5 +35,6 @@ Bold | Use \*\*example** or \_\_example__ to **bold** text.
 ## Navigation
 
 - [<-- Return to Home](README.md)
+- [1. Markdown - YOU ARE HERE](markdown.md)
 - [2. The Coder's Computer](thecoderscomputer.md)
 - [3. Revisions and the Cloud](revisionsandthecloud.md)
