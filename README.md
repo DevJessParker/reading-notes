@@ -2,6 +2,8 @@
 
 This is my repository to track my notes for CodeFellows.
 
+![Profile Image](https://static.wixstatic.com/media/3863c9_532b1d1ad41a497cb1a96458d188ba7f~mv2.jpg/v1/fill/w_380,h_369,al_c,q_80,usm_0.66_1.00_0.01/Profile.webp)
+
 
 
 
