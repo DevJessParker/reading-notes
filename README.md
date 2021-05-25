@@ -25,6 +25,15 @@ To me **Growth Mindset** is the ability to meet challenges as friends rather tha
 - Never be satisfied with *"Good Enough."* There is always room for growth.
 - Take constructive criticism as encouragement. Someone is taking the time to stengthen your skills.
 
+### My Notes
+
+Topic | Abstract
+------------ | ------------
+[Markdown](markdown.md) | An introduction to the basics of Markdown language styling
+[The Coder's Computer](thecoderscomputer.md) | An overview of Terminals, Text Editors, CLI, and basic Commands
+[Revisions and the Cloud](revisionsandthecloud.md) | Git, ACP, and the Revision Management
+
+
 
 ### Find Me on Twitter
 
