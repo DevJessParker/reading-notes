@@ -32,4 +32,8 @@ Italics | Use \*example* or \_example_ to *italicize* text.
 Bold | Use \*\*example** or \_\_example__ to **bold** text.
 **NOTE** | Both effects can be ***combined***.
 
+## Navigation
+
 [<-- Return to Home](README.md)
+[2. The Coder's Computer](thecoderscomputer.md)
+[3. Revisions and the Cloud](revisionsandthecloud.md)
