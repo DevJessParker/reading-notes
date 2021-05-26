@@ -1,8 +1,8 @@
-# 102 The Coder's Computer
+# CODE 102 - The Coder's Computer
 
 Let's overview some important key terms regarding Terminals, Text Editors, Files, and Navigation.
 
-### Key Terms
+## Key Term Definitions
 
 Term | Definition
 ------------ | ------------
@@ -28,11 +28,11 @@ Here are some important features to consider when choosing a text editor:
     -Does the editor offer "apps" that broaden the scope of the editor's capabilities beyond the default settings?
     
     
-### Anatomy of a Command Line
+## Anatomy of a Command Line
 
 The following shows the breakdown of a basic command line:
 
-**prompt + command + argument = output**
+## **prompt + command + argument = output**
 
 ## Navigating with Code
 
