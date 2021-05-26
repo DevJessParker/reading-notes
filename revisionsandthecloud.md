@@ -38,7 +38,7 @@ There are several often-used git commands. Here, we'll list them along with thei
 > Transfers a change to the staging area to prepare for a commit command.
 
 ### git commit -m "Your commit message notes go here."
-> Allows a developer to attach a commit message or note to the change.
+> Allows a developer to attach a commit message or note to the change. Acts as a "Save As" point.
 
 ### git push origin main
 > Syncs local computer coding changes with a repository origin, such as GitHub.
