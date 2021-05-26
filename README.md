@@ -11,6 +11,7 @@ My name is Jess Parker and I am transitioning to a software development career f
 
 [Click here to view my current graphic design portfolio.](https://www.parkerbookdesign.com)
 
+## Looking for my CodeFellows REPO - ACP Help Guide? [Click Here!](repoacp.md)
 
 ## Growth Mindset
 
@@ -33,8 +34,6 @@ Topic | Abstract
 [The Coder's Computer](thecoderscomputer.md) | An overview of Terminals, Text Editors, CLI, and basic Commands
 [Revisions and the Cloud](revisionsandthecloud.md) | Git, ACP, and Revision Management
 [HTML](HTML.md) | HTML, tags, and how they affect website content
-
-## Looking for my CodeFellows REPO - ACP Help Guide? [Click Here!](repoacp.md)
 
 ### Find Me on Twitter
 
