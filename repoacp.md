@@ -348,7 +348,7 @@ There is an option to access your Terminal directly in VS Code \(available by cl
 
  - Not sure how to "push" your changes back up to GitHub? Revisit the **ACP STEPS** section above.
 
- # GO FORTH AND CODE GREAT THINGS! I'M PROUD OF US!
+# GO FORTH AND CODE GREAT THINGS! I'M PROUD OF US!
 
 
 
