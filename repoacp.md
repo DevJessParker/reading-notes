@@ -1,4 +1,4 @@
-# HELP! Repo to ACP Detailed Instructions
+# HELP! Repo to ACP Detailed Process Guide
 
 This week is going to push us all outside our comfort zones. That's okay! Take a look at what we've done today. Could we have done this yesterday? Probably not. \I know *I* couldn't!
 

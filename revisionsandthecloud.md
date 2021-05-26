@@ -1,8 +1,10 @@
 # CODE 102 - Revisions and the Cloud
 
-## Looking for my CodeFellows REPO - ACP Help Guide? [Click Here!](repoacp.md)
+> ### **Looking for my CodeFellows REPO - ACP Help Guide? [Click Here!](repoacp.md)**
+
 
 Let's learn more about git, the coding revison procss, VCS, and ACP. First, let's start with defining these concepts.
+
 
 ## Key Term Definitions
 
