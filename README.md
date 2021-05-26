@@ -32,6 +32,7 @@ Topic | Abstract
 [Markdown](markdown.md) | An introduction to the basics of Markdown language styling
 [The Coder's Computer](thecoderscomputer.md) | An overview of Terminals, Text Editors, CLI, and basic Commands
 [Revisions and the Cloud](revisionsandthecloud.md) | Git, ACP, and Revision Management
+[HTML](HTML.md) | HTML, tags, and how they affect website content
 
 
 

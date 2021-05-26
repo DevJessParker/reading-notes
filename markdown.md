@@ -38,3 +38,4 @@ Bold | Use \*\*example** or \_\_example__ to **bold** text.
 - [1. Markdown - **YOU ARE HERE**](markdown.md)
 - [2. The Coder's Computer](thecoderscomputer.md)
 - [3. Revisions and the Cloud](revisionsandthecloud.md)
+- [4. HTML](HTML.md)

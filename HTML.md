@@ -55,7 +55,13 @@ Notice the alt="Description of File."\>
 The desciption is added to help assist visually impaired users understand the contents of the image. Accessibility of all users is an important consideration.
 
 
+## Navigation
 
+- [<-- Return to Home](README.md)
+- [1. Markdown](markdown.md)
+- [2. The Coder's Computer - **YOU ARE HERE**](thecoderscomputer.md)
+- [3. Revisions and the Cloud](revisionsandthecloud.md)
+- [4. HTML - **You are Here**](HTML.md)
 
 
 
