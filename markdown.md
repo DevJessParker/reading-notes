@@ -39,3 +39,5 @@ Bold | Use \*\*example** or \_\_example__ to **bold** text.
 - [2. The Coder's Computer](thecoderscomputer.md)
 - [3. Revisions and the Cloud](revisionsandthecloud.md)
 - [4. HTML](HTML.md)
+- [5. Design Web Pages with CSS](designwebpageswithcss.md)
+- [6. Dynamic Web Pages with JS](dynamicwebpageswithjs.md)

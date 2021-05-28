@@ -1,4 +1,4 @@
-# Design Wep Pages with CSS
+# Design Web Pages with CSS
 
 Now that we've learned a bit about HTML and what it does, let's learn about CSS, what CSS does, and how it relates to HTML.
 
@@ -19,6 +19,8 @@ unit |
 modules | 
 web standard technologies | 
 specs | 
+
+-----
 
 ## Breakdown of CSS Declaration
 

@@ -71,3 +71,5 @@ VCS | Version Control Software
 - [2. The Coder's Computer - **YOU ARE HERE**](thecoderscomputer.md)
 - [3. Revisions and the Cloud](revisionsandthecloud.md)
 - [4. HTML](HTML.md)
+- [5. Design Web Pages with CSS](designwebpageswithcss.md)
+- [6. Dynamic Web Pages with JS](dynamicwebpageswithjs.md)
