@@ -14,28 +14,27 @@ My name is Jess Parker and I am transitioning to a software development career f
 [Click here to view my current graphic design portfolio.](https://www.parkerbookdesign.com)
 
 -------
-&nbsp;
+
 
 > ### **Looking for my CodeFellows REPO - ACP Help Guide? [Click Here!](repoacp.md)**
-&nbsp;
+
 ## Growth Mindset
 
 To me, **Growth Mindset** is the ability to meet challenges as friends rather than foes. Obstacles give us the opportunity to troubleshoot issues on a deeper level, so that we may not only become stronger in our skillset, but also allow us the room to understand what *not* to do just as much as *what* to do. In a **Path Mindset**, we often skim the surface of the iceberg rather than understanding the current underneath. This leads to superficial knowledge, ***but not true understanding and comprehension.***
 
-&nbsp;
+
 ## Brain Hacks
 
 - Reframe challenges as opportunity. **Embrace the Pit!**
 - Never be satisfied with *"Good Enough."* There is always room for growth.
 - Take constructive criticism as encouragement. Someone is taking the time to stengthen your skills.
 
-&nbsp;
-&nbsp;
+
 # Reading Notes for Code Fellows
 
-&nbsp;
+
 ## CODE 102   
-&nbsp;
+
 
 Topic | Abstract
 ------------ | ------------
@@ -44,9 +43,9 @@ Topic | Abstract
 [Revisions and the Cloud](revisionsandthecloud.md) | Git, ACP, and Revision Management
 [HTML](HTML.md) | HTML, tags, and how they affect website content
 
-&nbsp;
+
 ## CODE 201   
-&nbsp;
+
 
 Topic | Abstract
 ------------ | ------------
