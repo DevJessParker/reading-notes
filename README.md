@@ -48,8 +48,8 @@ Topic | Abstract
 &nbsp;
 Topic | Abstract
 ------------ | ------------
-[Introductory HTML and JavaScript](markdown.md) | Title Goes Here
-[Reading Topic 2](201read01.md) | Title Goes Here
+[Introductory HTML and JavaScript](markdown.md) | An overview of how web pages are displayed using HTML and JavaScript
+[Reading Topic 2](class-01.md) | Title Goes Here
 [Reading Topic 3](markdown.md) | Title Goes Here
 [Reading Topic 4](markdown.md) | Title Goes Here
 [Reading Topic 5](markdown.md) | Title Goes Here
