@@ -36,6 +36,7 @@ To me, **Growth Mindset** is the ability to meet challenges as friends rather th
 &nbsp;
 ## CODE 102   
 &nbsp;
+
 Topic | Abstract
 ------------ | ------------
 [Markdown](markdown.md) | An introduction to the basics of Markdown language styling
@@ -46,10 +47,11 @@ Topic | Abstract
 &nbsp;
 ## CODE 201   
 &nbsp;
+
 Topic | Abstract
 ------------ | ------------
-[Introductory HTML and JavaScript](markdown.md) | An overview of how web pages are displayed using HTML and JavaScript
-[Reading Topic 2](class-01.md) | Title Goes Here
+[Introductory HTML and JavaScript](class-01.md) | An overview of how web pages are displayed using HTML and JavaScript
+[Reading Topic 2](class-02.md) | Title Goes Here
 [Reading Topic 3](markdown.md) | Title Goes Here
 [Reading Topic 4](markdown.md) | Title Goes Here
 [Reading Topic 5](markdown.md) | Title Goes Here
