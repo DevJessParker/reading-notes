@@ -118,6 +118,16 @@ JavaScript is often used in web pages to make websites more interactive. It is w
 > Set Goal > Design Tasks > Code Steps
 
 
+&nbsp;
+&nbsp;
+
+## Reference and Additional Reading:
+&nbsp;
+
+
+**Please Note: This information is a summary derived from Jon Duckett's *HTML & CSS* and *JAVASCRIPT & JQUERY.***
+
+
 
 
 
