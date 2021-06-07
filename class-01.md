@@ -104,6 +104,7 @@ Term | Definition
 debugging | The process of finding out what went wrong within the code.
 programmatic | The way a computer resolves instructions, in order, one after the other.
 script | A series of instructions used to direct computers toward a goal or outcome
+
 &nbsp;
 
 JavaScript is often used in web pages to make websites more interactive. It is written within HTML using the ```<script></script>``` tags, and describes a set order of tasks for a computer to complete when processing information and/or user inputs.
