@@ -11,6 +11,7 @@ Term | Definition
 ----- | -----
 white space collapse | The process by which a browser ignores unnecessary white space and condenses the information accordingly.
 empty elements | unique HTML tags that do not require a closing tag.
+
 &nbsp;
 
 
