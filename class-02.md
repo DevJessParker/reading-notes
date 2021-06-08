@@ -102,13 +102,14 @@ value | specifies *how much* or *to which setting* the property will adhere
 - An **ASSIGNMENT OPERATOR** is a symbol used to denote the phrase **can be understood to mean**. Be careful: An `=` as an assignment operator does not mean the same as a mathematical = symbol.
 - The value of a variable may evolve throughout the code depending on the statements performed.
 - If a variable has not been assigned a value, it is considered **UNDEFINED**.
- 
+
 -------
 &nbsp;
 - Numeric data describes data comprised of numbers.
 - String data describes data comprised of text. Strings are written as: `'example'` 
 - A **BOOLEAN** can be either true or false.
 - Escaping is a technique used to instruct JavaScript to temporarily ignore a symbol or punctuation. This allows a string to contain punctuation without confusing the process of operations.
+
 ----------
 &nbsp;
 
@@ -199,6 +200,7 @@ LOGICAL NOT | Inverts a Boolean value. A `false` return then becomes `true`.
 &nbsp;
 
 >If the first comparison expression in a LOGICAL OR evaluates to `true`, the entire logical expression returns as `true`, and no additional information in the expression will be evaluated, as the condition of at least one conditional expression resulting in a `truthie` has been met.
+
 ------------
 &nbsp;
 
