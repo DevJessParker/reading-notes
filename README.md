@@ -49,8 +49,8 @@ Topic | Abstract
 
 Topic | Abstract
 ------------ | ------------
-[Introductory HTML and JavaScript](class-01.md) | An overview of how web pages are displayed using HTML and JavaScript
-[Reading Topic 2](class-02.md) | Title Goes Here
+[Read: 01](class-01.md) | Introductory HTML and JavaScript
+[Read: 02](class-02.md) | HTML Text, CSS Introduction, and Basic JavaScript
 [Reading Topic 3](markdown.md) | Title Goes Here
 [Reading Topic 4](markdown.md) | Title Goes Here
 [Reading Topic 5](markdown.md) | Title Goes Here
