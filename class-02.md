@@ -92,7 +92,8 @@ value | specifies *how much* or *to which setting* the property will adhere
 - Programmers often comment out notes regarding the code. This code will not be read or displayed on the browser. Longer comments are enclosed within the `/* */` symbols. Single-line comments are denoted using `//`.
 - A variable can **NOT** begin with a number.
 - Do **NOT use a - or . when naming a variable.
-- You can **NOT** use a keyword within the name of a variable. 
+- You can **NOT** use a keyword within the name of a variable.
+
 ----------
 &nbsp;
 
@@ -100,7 +101,8 @@ value | specifies *how much* or *to which setting* the property will adhere
 - Variable names should give clear indication as to what data will be collected.
 - An **ASSIGNMENT OPERATOR** is a symbol used to denote the phrase **can be understood to mean**. Be careful: An `=` as an assignment operator does not mean the same as a mathematical = symbol.
 - The value of a variable may evolve throughout the code depending on the statements performed.
-- If a variable has not been assigned a value, it is considered **UNDEFINED**. 
+- If a variable has not been assigned a value, it is considered **UNDEFINED**.
+ 
 -------
 &nbsp;
 - Numeric data describes data comprised of numbers.
@@ -182,9 +184,9 @@ In this example we can see that the operands on either side of the `!==` operato
 
 Operator | Useage
 ----- | -----
-`&&` | LOGICAL AND: Evaluates more than one condition on either side to compare values for `true`.
-`||` | LOGICAL OR: At least one condition must evaluate as `true` to return `true`, even if the other expression evaluates as false. In other words, 1 out of 2 expressions must be true to return `true`.
-`!` | LOGICAL NOT: inverts a Boolean value. A `false` return then becomes `true`.
+LOGICAL AND | Evaluates more than one condition on either side to compare values for `true`.
+LOGICAL OR | At least one condition must evaluate as `true` to return `true`, even if the other expression evaluates as false. In other words, 1 out of 2 expressions must be true to return `true`.
+LOGICAL NOT | Inverts a Boolean value. A `false` return then becomes `true`.
 
 &nbsp;
 
