@@ -51,7 +51,7 @@ Topic | Abstract
 ------------ | ------------
 [Read: 01](class-01.md) | Introductory HTML and JavaScript
 [Read: 02](class-02.md) | HTML Text, CSS Introduction, and Basic JavaScript
-[Reading Topic 3](markdown.md) | Title Goes Here
+[Read: 0](class-03.md) | CSS Boxes, HTML, and Loops
 [Reading Topic 4](markdown.md) | Title Goes Here
 [Reading Topic 5](markdown.md) | Title Goes Here
 [Reading Topic 6](markdown.md) | Title Goes Here
