@@ -33,7 +33,7 @@ empty elements | unique HTML tags that do not require a closing tag.
 
 ### Key Semantic Markup Tags
 
-Tag | Useage
+Tag | Usage
 ----- | -----
 `<em>` | italics or emphasis
 `<strong>` | bold or emphasis
@@ -184,7 +184,7 @@ In this example we can see that the operands on either side of the `!==` operato
 
 ### Key Logical Operators
 
-Operator | Useage
+Operator | Usage
 ----- | -----
 LOGICAL AND | Evaluates more than one condition on either side to compare values for `true`.
 LOGICAL OR | At least one condition must evaluate as `true` to return `true`, even if the other expression evaluates as false. In other words, 1 out of 2 expressions must be true to return `true`.
@@ -200,7 +200,7 @@ LOGICAL NOT | Inverts a Boolean value. A `false` return then becomes `true`.
 
 &nbsp;
 
->If the first comparison expression in a LOGICAL OR evaluates to `true`, the entire logical expression returns as `true`, and no additional information in the expression will be evaluated, as the condition of at least one conditional expression resulting in a `truthie` has been met.
+>If the first comparison expression in a LOGICAL OR evaluates to `true`, the entire logical expression returns as `true`, and no additional information in the expression will be evaluated, as the condition of at least one conditional expression resulting in a `truth` has been met.
 
 ------------
 &nbsp;
