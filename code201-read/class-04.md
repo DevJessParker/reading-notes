@@ -35,7 +35,7 @@ URL | Uniform Resource Locator
 Term | Definition
 ----- | -----
 block-level element | begin on new line can help section a web page
-inline element | will 
+inline element | will modify content within a block-level element
 parent element | The outer block-level element (container)
 positioning scheme | a CSS property that can control the layout of a page (normal, relative, absolute)
 box offset | the property stating it's position on a webpage in reference to top and bottom, left and right (fixed and floating)
@@ -43,7 +43,7 @@ z-index | property that controls layered front-to-back positions
 float | becomes box-level element that can be moved to the far left or far right of a parent container
 fixed-width layout | fixed pixel width
 liquid layout | uses percentages
-960 pixel grid | a "map" that helps you arrange the position of elements verus white space, and helps align content within industry standards
+960 pixel grid | a "map" that helps you arrange the position of elements versus white space, and helps align content within industry standards
 `div` | element used to contain elements and group parent-child boxes
 
 
