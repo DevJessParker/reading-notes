@@ -38,10 +38,10 @@ To me, **Growth Mindset** is the ability to meet challenges as friends rather th
 
 Topic | Abstract
 ------------ | ------------
-[Markdown](markdown.md) | An introduction to the basics of Markdown language styling
-[The Coder's Computer](thecoderscomputer.md) | An overview of Terminals, Text Editors, CLI, and basic Commands
-[Revisions and the Cloud](revisionsandthecloud.md) | Git, ACP, and Revision Management
-[HTML](HTML.md) | HTML, tags, and how they affect website content
+[Read: 01](markdown.md) | An introduction to the basics of Markdown language styling
+[Read: 02](thecoderscomputer.md) | An overview of Terminals, Text Editors, CLI, and basic Commands
+[Read: 03](revisionsandthecloud.md) | Git, ACP, and Revision Management
+[Read: 04](HTML.md) | HTML, tags, and how they affect website content
 
 
 ## CODE 201   
@@ -49,10 +49,10 @@ Topic | Abstract
 
 Topic | Abstract
 ------------ | ------------
-[Read: 01](/code201/class-01.md) | Introductory HTML and JavaScript
-[Read: 02](/code201/class-02.md) | HTML Text, CSS Introduction, and Basic JavaScript
-[Read: 03](/code201/class-03.md) | CSS Boxes, HTML, and Loops
-[Read: 04](/code201/class-04.md) | Links and Layout
+[Read: 01](/code201-read/class-01.md) | Introductory HTML and JavaScript
+[Read: 02](/code201-read/class-02.md) | HTML Text, CSS Introduction, and Basic JavaScript
+[Read: 03](/code201-read/class-03.md) | CSS Boxes, HTML, and Loops
+[Read: 04](/code201-read/class-04.md) | Links and Layout
 [Reading Topic 5](markdown.md) | Title Goes Here
 [Reading Topic 6](markdown.md) | Title Goes Here
 [Reading Topic 7](markdown.md) | Title Goes Here
