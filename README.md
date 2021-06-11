@@ -53,7 +53,7 @@ Topic | Abstract
 [Read: 02](/code201-read/class-02.md) | HTML Text, CSS Introduction, and Basic JavaScript
 [Read: 03](/code201-read/class-03.md) | CSS Boxes, HTML, and Loops
 [Read: 04](/code201-read/class-04.md) | Links and Layout
-[Read: 05](markdown.md) | Title Goes Here
+[Read: 05](/code201-read/class-05.md) | Title Goes Here
 [Reading Topic 6](/code201-read/class-05.md) | Title Goes Here
 [Reading Topic 7](markdown.md) | Title Goes Here
 [Reading Topic 8](markdown.md) | Title Goes Here
