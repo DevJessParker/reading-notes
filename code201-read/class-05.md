@@ -13,7 +13,7 @@
 
 Other concepts:
 
-- GIFS aren't widly used because = MySpace
+- Animated GIFS aren't widly used because = MySpace
 - PPI stands for Pixels Per Inch
 
 &nbsp;
