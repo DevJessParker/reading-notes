@@ -54,3 +54,9 @@ liquid layout | uses percentages
 - CSS frameworks is a handy tool that allows you to layout a page without having to write CSS from scratch
 - 600 pixels is "above the fold"
 - 960 - 1000 pixels = industry standard for page
+
+
+&nbsp;
+
+
+**Please Note: This information is a summary derived from Jon Duckett's *HTML & CSS* and *JAVASCRIPT & JQUERY.***
