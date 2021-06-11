@@ -67,4 +67,9 @@ kerning | space between letters
 - Put fonts that have names with more than one word in double quotes.
 
 
+&nbsp;
+
+
+**Please Note: This information is a summary derived from Jon Duckett's *HTML & CSS* and *JAVASCRIPT & JQUERY.***
+
 
