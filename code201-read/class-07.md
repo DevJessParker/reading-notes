@@ -4,16 +4,17 @@
 
 ### Key HTML
 ----- | -----
-`<table>` | html element used to signal a table
-`<tr>` | table row
-`<td>` | table data
-`<th>` | table heading column/row
-`<thead>` | heading of entire table
-`<tbody>` | body of entire table
-`<tfoot>` | table footer
 bgcolor | attribute used to color table
 rowspan | attribute used to make more than one row
 colspan | attribute used to make more than one column
+- `<table`> | html element used to signal a table
+- `<tr`> | table row
+- `<td`> | table data
+- `<th`> | table heading column/row
+- `<thead`> | heading of entire table
+- `<tbody`> | body of entire table
+- `<tfoot>` | table footer
+
 
 
 ## Functions, Methods, and Objects
