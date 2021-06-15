@@ -55,7 +55,7 @@ Topic | Abstract
 [Read: 04](/code201-read/class-04.md) | Links and Layout
 [Read: 05](/code201-read/class-05.md) | Title Goes Here
 [Read: 06](/code201-read/class-06.md) | Problem Domain, Objects, and the DOM
-[Reading Topic 7](markdown.md) | Title Goes Here
+[Read: 07](/code201-read/class-07.md) | Object-Oriented Programming HTML Tables
 [Reading Topic 8](markdown.md) | Title Goes Here
 [Reading Topic 9](markdown.md) | Title Goes Here
 [Reading Topic 10](markdown.md) | Title Goes Here
