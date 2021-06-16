@@ -3,7 +3,7 @@
 ## Tables
 
 ### Key HTML
------ | -----
+------------ | ------------
 bgcolor | attribute used to color table
 rowspan | attribute used to make more than one row
 colspan | attribute used to make more than one column
@@ -20,7 +20,7 @@ colspan | attribute used to make more than one column
 ## Functions, Methods, and Objects
 
 ### Key Terms
------ | -----
+------------ | ------------
 property | a variable inside an object
 method | a function used in conjunction with the object
 key | name + value
