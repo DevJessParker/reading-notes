@@ -57,8 +57,8 @@ Topic | Abstract
 [Read: 06](/code201-read/class-06.md) | Problem Domain, Objects, and the DOM
 [Read: 07](/code201-read/class-07.md) | Object-Oriented Programming HTML Tables
 [Read: 08](/code201-read/class-08.md) | CSS Layout (Part II)
-[Read: 09](markdown.md) | Title Goes Here
-[Reading Topic 10](markdown.md) | Title Goes Here
+[Read: 09](/code201-read/class-09.md) | Title Goes Here
+[Reading Topic 10](markdown.md) | Forms and Events
 [Reading Topic 11](markdown.md) | Title Goes Here
 [Reading Topic 12](markdown.md) | Title Goes Here
 [Reading Topic 13](markdown.md) | Title Goes Here
