@@ -59,7 +59,7 @@ Topic | Abstract
 [Read: 08](/code201-read/class-08.md) | CSS Layout (Part II)
 [Read: 09](/code201-read/class-09.md) | Title Goes Here
 [Read: 10](/code201-read/class-10.md) | Debugging
-[Reading Topic 11](markdown.md) | Title Goes Here
+[Read: 11](/code201-read/class-11.md) | Assorted Topics
 [Reading Topic 12](markdown.md) | Title Goes Here
 [Reading Topic 13](markdown.md) | Title Goes Here
 [Reading Topic 14](markdown.md) | Title Goes Here

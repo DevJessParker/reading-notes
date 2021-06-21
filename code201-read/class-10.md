@@ -13,7 +13,7 @@ lexical scope | function that are defined within their parent object
 - Tasks are prioritized to suite the need of the most recently called statement
 -Two phases of script activity are: Prepare and Execute
 
-## Debugging Steps
+### Debugging Steps
 
 - Find the problem area based on console feedback
 - Decipher the problem
