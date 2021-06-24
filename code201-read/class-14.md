@@ -11,3 +11,8 @@
 - A willingness to compromise.
 - Team members have a chance to speak in equal amounts.
 - Team members were sensitive to the needs of others.
+
+
+Source:
+
+https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
