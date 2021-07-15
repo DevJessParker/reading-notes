@@ -73,6 +73,8 @@ Topic | Abstract
 ------------ | ------------
 [Read: 01](/code301-read/class-01.md) | 
 [Read: 02](/code301-read/class-02.md) | Props and State
+[Read: 01](/code301-read/class-03.md) | 
+[Read: 02](/code301-read/class-04.md) | React Forms and Ternary Operators
 
 
 
