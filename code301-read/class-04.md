@@ -27,7 +27,7 @@ condition ? value if true : value if false
 
 - Why would we use a ternary operator?
 
-***The code is readable and succint.***
+***The code is readable and succinct.***
 
 - Rewrite the following statement using a ternary statement:
 
@@ -54,4 +54,4 @@ x===y ? console.log(true) : console.log(false)
 
 https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff
 
-https://reactjs.org/docs/forms.html*
+https://reactjs.org/docs/forms.html
