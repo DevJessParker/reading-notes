@@ -76,6 +76,7 @@ Topic | Abstract
 [Read: 03](/code301-read/class-03.md) | 
 [Read: 04](/code301-read/class-04.md) | React Forms and Ternary Operators
 [Read: 05](/code301-read/class-05.md) | React Recap
+[Read: 06](/code301-read/class-06.md) | NODE.JS
 
 
 
