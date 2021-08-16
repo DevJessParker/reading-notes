@@ -84,7 +84,8 @@ Topic | Abstract
 
 Topic | Abstract
 ------------ | ------------
-[Prep Reading](/code401-read/prepread.md) |
+[Prep Reading](/code401-read/prepread.md) | Becoming a Programmer
+[Read: 01](/code401-read/class-01.md) | .Map, .Reduce, superagent(), .then(), async/await
 
 
 
