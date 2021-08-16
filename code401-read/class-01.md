@@ -42,4 +42,4 @@ const res = yield req;
 > Not by default. Callback functions can readily execute without waiting for a success/failure promise response.
 
 
-** Code examples attributed to https://visionmedia.github.io/superagent/.
+** Code examples attributed to https://visionmedia.github.io/superagent/
